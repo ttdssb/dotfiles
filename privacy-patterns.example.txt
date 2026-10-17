@@ -1,0 +1,8 @@
+# Copy this file to privacy-patterns.local.txt (it is git-ignored)
+# and put one keyword per line: real name, student id, windows user,
+# hostname, old profile folder, old project paths ...
+#
+# <your real name>
+# <your student id>
+# <your windows user name>
+# <your host name>

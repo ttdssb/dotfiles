@@ -15,6 +15,9 @@ secrets/
 *.key
 *.pem
 
+# privacy keyword list (never commit this)
+privacy-patterns.local.txt
+
 # editor / os noise
 .vscode/
 Thumbs.db
