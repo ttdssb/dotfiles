@@ -1,0 +1,21 @@
+# local backups
+*.bak
+*.bak-*
+
+# machine specific exports
+*.reg
+*.log
+*.tmp
+
+# secrets and state
+auth.json
+.ssh/
+secrets/
+*.pfx
+*.key
+*.pem
+
+# editor / os noise
+.vscode/
+Thumbs.db
+desktop.ini
